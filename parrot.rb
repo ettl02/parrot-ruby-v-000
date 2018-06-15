@@ -11,5 +11,3 @@ def parrot (sound = "Pretty Bird!")
 end
 
 parrot ()
-
-
