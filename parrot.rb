@@ -6,8 +6,8 @@ end
 
 parrot ()
 
-def parrot (sound = "Pretty Bird!")
+def new_parrot (sound = "Pretty Bird!")
   puts "#{sound}"
 end
 
-parrot ()
+new_parrot ()
