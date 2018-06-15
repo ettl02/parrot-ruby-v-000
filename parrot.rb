@@ -4,10 +4,3 @@ def parrot
   puts "Squawk!"
 end
 
-parrot ()
-
-def new_parrot (sound = "Pretty Bird!")
-  puts "#{sound}"
-end
-
-new_parrot ()
